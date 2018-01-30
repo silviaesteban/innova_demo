@@ -813,6 +813,15 @@
 		position: relative;
 		margin-top: 60px;
 	}
+
+	.bck-box.box-1:before{
+		border:none;
+		margin: 0px;
+		content: none;
+	}
+
+
+
 	.bck-box.box-1:after {
 		content: '';
 		background: url(images/caja1-esquina.png) 0 0 no-repeat;
