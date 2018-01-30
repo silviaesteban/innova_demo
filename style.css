@@ -610,6 +610,9 @@
 		font-weight: bold;
 	 	color: #80BD00;
 	 	position: relative;
+		border: none;
+		margin-left: 0px;
+		padding:0px;
 	}
 
 	.bck-title1,
