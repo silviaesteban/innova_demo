@@ -620,6 +620,14 @@
 		margin-bottom: 30px;
 	}
 
+	.bck-title1{
+		border: none;
+		margin-left: 0px
+		padding:0px;
+
+	}
+
+
 	.bck-title2 {
 		font-size: 3.0rem;
 		clear: both;
