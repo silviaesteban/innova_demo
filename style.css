@@ -374,6 +374,36 @@
 	    padding-right: 100px;
 	}
 
+	.body_clase:not(.edit) .slider-indicators li {
+	    width: 14px;
+	    height: 14px;
+	    background-color: #014A99;
+	    margin: 0px 8px 0 0;
+	    text-align: center;
+	    opacity: 1;
+	    position: relative;
+	    float: left;
+	}
+
+
+	.body_clase:not(.edit) .slider-indicators li:before, .body_clase:not(.edit) .slider-indicators li:after {
+	    content: '';
+	    display: block;
+	    width: 0px;
+	    height: 100%;
+	    background: #fff;
+	    position: absolute;
+	    left: 0;
+	    top: 0;
+	}
+
+
+	.body_clase:not(.edit) .slider-indicators li.active, .body_clase .activity-navbar li:hover {
+	    background-color: #014a99;
+	    opacity: 0.5;
+	}
+
+
 	.slider-indicators li,
 	.edit .slider-indicators li {
 		background-color: #f9bfad;
