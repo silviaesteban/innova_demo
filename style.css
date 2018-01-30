@@ -815,11 +815,11 @@
 	}
 
 	.bck-box.box-1:before {
-	    content: '';
+	    content:none;
 	    background: #ffffff;
 	    border-top: 0px;
 	    border-left: 0px;
-	    margin-left: 0;
+	    margin-left: 0px;
 	    margin-right: 0px;
 	    margin-top: 0px;
 	    width: auto;
