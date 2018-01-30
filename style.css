@@ -436,7 +436,7 @@
 		display: block;
 		margin-left: -48px;
 	}
-	.content_type_clase_innova_demo .logo-publisher {
+	.body_clase:not(.edit) .logo-publisher {
 		content: " ";
 		background-image: url(/useruploads/ctx/a/70253509/r/s/19330369/logo_innova.png);
 		height: 88px;
