@@ -652,10 +652,22 @@
 	}
 
 	.bck-title1{
+		font-family: cursive;
 		border: none;
 		margin-left: 0px;
 		padding:0px;
 	}
+
+
+.bck-title-sesion {
+    font-weight: 900;
+    font-family: initial;
+    color: grey;
+    border: solid 2px #74d320;
+    width: fit-content;
+    padding: 10px 61px;
+    margin: 0 auto;
+    margin-bottom: 10px;
 
 
 	.bck-title2 {
@@ -665,17 +677,6 @@
 		margin-bottom: 30px;
 	}
 
-	.bck-title1:before,
-	.bck-title2:before {
-		content: '';
-		display: block;
-		position: absolute;
-		bottom: -6px;
-		left: 0;
-		width: 120px;
-		height: 6px;
-		background-color: #85b426;
-	}
 
 
 	.bck-title3 {
@@ -1184,3 +1185,4 @@ div.calculo table.marco * {
 body.print-mode .title *, body.print-mode .title {
     background-color: #e94442;
 }
+
