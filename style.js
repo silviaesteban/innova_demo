@@ -14,9 +14,12 @@
 			styles: [
 
 				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title1'} },
-				{ name: 'Título sesion', element: 'h4', attributes: { 'class': 'bck-title-sesion'} },
 				{ name: 'Título 2', element: 'h4', attributes: { 'class': 'bck-title2'} },
+				{ name: 'Título alertas', element: 'h4', attributes: { 'class': 'bck-title-alertas'} },
+				{ name: 'Título sesion', element: 'h4', attributes: { 'class': 'bck-title-sesion'} },
 				{ name: 'Título 3', element: 'h4', attributes: { 'class': 'bck-title3'} },
+
+				
 
 				{ name: 'Énfasis', element: 'span', attributes: { 'class': 'bck-enfasis' }},
 				{ name: 'Enunciado actividad', element: 'h4', attributes: { 'class': 'bck-title-activity' }},
