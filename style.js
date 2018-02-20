@@ -14,6 +14,7 @@
 			styles: [
 
 				{ name: 'Título 1', element: 'h4', attributes: { 'class': 'bck-title1'} },
+				{ name: 'Título sesion', element: 'h4', attributes: { 'class': 'bck-title-sesion'} },
 				{ name: 'Título 2', element: 'h4', attributes: { 'class': 'bck-title2'} },
 				{ name: 'Título 3', element: 'h4', attributes: { 'class': 'bck-title3'} },
 
