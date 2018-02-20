@@ -634,7 +634,6 @@
 	.bck-title2,
 	.bck-title3,
 	.bck-title-activity {
-		font-family: 'Cabin Sketch', cursive;
 		font-weight: bold;
 	 	position: relative;
 		border: none;
@@ -659,7 +658,7 @@
 	}
 
 
-	.bck-title-sesion {
+	.bck-title-sesion{
 	    font-weight: 900;
 	    font-family: initial;
 	    color: grey;
@@ -670,13 +669,15 @@
 	    margin-bottom: 10px;
 
 	}
+	
 	.bck-title2 {
+	    color: #0095DA!important;
 		font-size: 3.0rem;
 		clear: both;
 		padding: 10px 20px 10px 0;
 		margin-bottom: 30px;
+		font-family: inherit;
 	}
-
 
 
 	.bck-title3 {
