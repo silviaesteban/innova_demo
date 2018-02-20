@@ -669,7 +669,7 @@
 	    margin-bottom: 10px;
 
 	}
-	
+
 	.bck-title2 {
 	    color: #0095DA!important;
 		font-size: 3.0rem;
@@ -682,6 +682,11 @@
 
 	.bck-title3 {
 		font-size: 2.5rem;
+	}
+
+	.bck-title-alertas {
+    color: red;
+    font-weight: 900;
 	}
 
 	.bck-enfasis,
