@@ -659,17 +659,17 @@
 	}
 
 
-.bck-title-sesion {
-    font-weight: 900;
-    font-family: initial;
-    color: grey;
-    border: solid 2px #74d320;
-    width: fit-content;
-    padding: 10px 61px;
-    margin: 0 auto;
-    margin-bottom: 10px;
+	.bck-title-sesion {
+	    font-weight: 900;
+	    font-family: initial;
+	    color: grey;
+	    border: solid 2px #74d320;
+	    width: fit-content;
+	    padding: 10px 61px;
+	    margin: 0 auto;
+	    margin-bottom: 10px;
 
-}
+	}
 	.bck-title2 {
 		font-size: 3.0rem;
 		clear: both;
