@@ -630,6 +630,13 @@
 
 /* CKEDITOR */
 
+
+/*enlaces*/
+	a {
+	    color: #80be00;
+	    text-decoration: underline;
+	}
+
 	.bck-title1,
 	.bck-title2,
 	.bck-title3,
@@ -649,6 +656,7 @@
 		margin-bottom: 30px;
 	}
 
+
 	.bck-title1{
 		font-family: cursive;
 		border: none;
@@ -660,7 +668,6 @@
 
 	.bck-title-sesion{
 	    font-weight: 900;
-	    font-family: initial;
 	    color: grey;
 	    border: solid 2px #74d320;
 	    width: fit-content;
