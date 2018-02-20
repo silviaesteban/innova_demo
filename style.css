@@ -50,6 +50,9 @@
 	    font-size: 18px
 	}
 
+	#indice .unit-content .actividades .item .title {
+	    color: #01489e;
+	}
 
 	#indice .unit-content {
 	    border-radius: 0px;
