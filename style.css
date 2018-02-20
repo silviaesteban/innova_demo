@@ -691,7 +691,9 @@
 
 
 	.bck-title3 {
-		font-size: 2.5rem;
+    font-size: 2.5rem;
+    color: orange;
+    font-family: inherit;
 	}
 
 	.bck-title-alertas {
@@ -1201,3 +1203,4 @@ div.calculo table.marco * {
 body.print-mode .title *, body.print-mode .title {
     background-color: #e94442;
 }
+
