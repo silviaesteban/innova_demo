@@ -582,7 +582,8 @@
 	}
 
 	.content_type_clase_innova_demo .publisher-navbar .dropdown li a {
-		color: #014A99;
+    color: #014A99;
+    text-decoration: none;
 	}
 
 	.content_type_clase_innova_demo .publisher-navbar .dropdown .caret {
