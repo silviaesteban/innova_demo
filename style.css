@@ -67,14 +67,13 @@
 	#indice .unit-content .header .title {
     color: #014A99;
     font-size: 35px;
-    background-color: #a0e0f7a1;
     width: fit-content;
     height: fit-content;
-}
+	}
 
 .btn-primary, .btn-primary.disabled, .btn-primary.disabled:focus {
     background-color: #80BD00;
-}
+	}
 
 
 	.body_clase .content-wrapper {
