@@ -1,6 +1,6 @@
 /* General */
 
-@import url(https://fonts.googleapis.com/css?family :400,700);
+@import url(https://fonts.googleapis.com/css?family=Cabin+Sketch:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,400italic);
 
 
@@ -701,11 +701,11 @@
 	    font-weight: 900;
 	}
 
+
 	.bck-title-activity {
     color: #80be00;
     font-family: Cabin Sketch;
 	}
-
 
 	.bck-enfasis,
 	strong {
