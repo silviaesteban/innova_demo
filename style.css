@@ -673,7 +673,8 @@
 	    font-weight: 900;
 	    color: grey;
 	    border: solid 2px #74d320;
-	    width: fit-content;
+	    text-align: center;
+	    width: 30%;
 	    padding: 10px 61px;
 	    margin: 0 auto;
 	    margin-bottom: 10px;
